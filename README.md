@@ -20,6 +20,8 @@ load_func([
             'https://domain.phpfunc.com/get_domain_by_url.php',
             'https://domain.phpfunc.com/clean_url.php',
             'https://domain.phpfunc.com/clean_url_multiline.php',
+            'https://domain.phpfunc.com/response_status.php',
+
         ], function () {
 
 
